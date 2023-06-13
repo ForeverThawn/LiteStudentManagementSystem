@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="A:/Allen/Private/Garbage/SMU/Courses/2022-2023 大一下学期/面向对象程序设计/实验/StudentManager/lib/fastjson-1.2.76.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
